@@ -4,6 +4,8 @@ langchain-core
 langchain_community
 langchain_huggingface
 langchain-chroma
+langchainhub
+langsmith
 
 # OpenAI Integration
 langchain-openai
@@ -49,3 +51,5 @@ pydantic
 duckduckgo-search 
 langchain_experimental
 ddgs
+requests
+
